@@ -1,0 +1,14 @@
+Merging Code
+Way 1
+git diff <- branch name->
+git merge ‹- branch name->
+Way 2
+Create a PR
+(to compare commits, branches, files & more)
+(to merge 2 branches)
+
+Lets u tell others about the changee you have made and pushed to the specific branch
+
+Mergable - Only possible if it all no conflicts arise / take place 
+
+git pull command - fetch and download informations from a remote github repo
