@@ -1,0 +1,1 @@
+#initializing git hub learning just with a small python script/code.
