@@ -33,3 +33,4 @@ git branch -d <- branch name ->
 (to delete branch)
 
 
+#this changes in live, when you actually checkout all those branches 
