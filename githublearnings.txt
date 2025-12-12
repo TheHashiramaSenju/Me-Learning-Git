@@ -1,0 +1,13 @@
+#initializing git hub learning just with a small python script/code.
+
+We use -M command in the branches to rename the branch effectively 
+
+init - used to create a new git repo
+git init
+git remote add origin <- link ->
+git remote -v
+(to verify remote)
+git branch
+(to check branch)
+git branch -M main (to rename branches)
+git push origin main
