@@ -1,5 +1,7 @@
 #initializing git hub learning just with a small python script/code.
 
+
+BRUSH UPS
 We use -M command in the branches to rename the branch effectively 
 
 init - used to create a new git repo
@@ -15,5 +17,5 @@ git push origin main
 git push -u origin senju --> -u lets us temproarily set the push origin branch as senju and hence reducing the work of doing "origin senju" over again.
 This is called as an upstream
 
-
+ git status for tracking 
 
