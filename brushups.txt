@@ -1,0 +1,36 @@
+#initializing git hub learning just with a small python script/code.
+
+
+BRUSH UPS
+We use -M command in the branches to rename the branch effectively 
+
+init - used to create a new git repo
+git init
+git remote add origin <- link ->
+git remote -v
+(to verify remote)
+git branch
+(to check branch)
+git branch -M main (to rename branches)
+git push origin main
+
+git push -u origin senju --> -u lets us temproarily set the push origin branch as senju and hence reducing the work of doing "origin senju" over again.
+This is called as an upstream
+
+ git status for tracking 
+
+#same code in 2 branches they become merged branch
+
+Branch Commands
+git branch
+(to check branch)
+git branch -M main (to rename branch)
+git checkout ‹- branch name -> #similar to hotel checkout, let us say I wanna choose branch senju, we can incorporate it with this command here
+git checkout -b ‹- new branch name ->
+(to navigate)
+(to create new branch)
+git branch -d <- branch name ->
+(to delete branch)
+
+
+#this changes in live, when you actually checkout all those branches 
