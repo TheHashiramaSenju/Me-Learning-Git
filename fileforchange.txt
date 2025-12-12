@@ -1,5 +1,5 @@
 differnent commit same name file name 
-Case 1: staged changes (add ~
+Case 1: staged changes (add ~)
 git reset ‹- file name ->
 git reset
 Case 2: commited changes (for one commit)
