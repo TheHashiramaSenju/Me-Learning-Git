@@ -19,3 +19,17 @@ This is called as an upstream
 
  git status for tracking 
 
+#same code in 2 branches they become merged branch
+
+Branch Commands
+git branch
+(to check branch)
+git branch -M main (to rename branch)
+git checkout ‹- branch name -> #similar to hotel checkout, let us say I wanna choose branch senju, we can incorporate it with this command here
+git checkout -b ‹- new branch name ->
+(to navigate)
+(to create new branch)
+git branch -d <- branch name ->
+(to delete branch)
+
+
